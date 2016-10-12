@@ -1,0 +1,36 @@
+{
+  "name": "cordova-plugin-launch-image-insert",
+  "version": "0.0.1",
+  "description": "\n      Cordova / PhoneGap Plugin to add Ipad Pro Launch Image\n    ",
+  "cordova": {
+    "id": "cordova-plugin-launch-image-insert",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vgeyvandov/cordova-plugin-launch-image-insert.git"
+  },
+  "keywords": [
+    "cordova",
+    "ios",
+    "app",
+    "url",
+    "schemes",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Val Geyvandov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vgeyvandov/cordova-plugin-launch-image-insert/issues"
+  },
+  "homepage": "https://github.com/vgeyvandov/cordova-plugin-launch-image-insert#readme"
+}

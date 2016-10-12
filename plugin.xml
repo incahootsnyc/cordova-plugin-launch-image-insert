@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<plugin id="cordova-plugin-launch-image-insert" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0">
+    <name>App Launch Images</name>
+    <author>Val Geyvandov</author>
+    <description>
+      Cordova / PhoneGap Plugin to add Ipad Pro Launch Image
+    </description>
+    <keywords>cordova, ios, app, url, schemes</keywords>
+    <license>MIT</license>
+    <engines>
+        <engine name="cordova" version=">=3.0.0"/>
+    </engines>
+    <platform name="ios">
+      <config-file target="*-Info.plist" parent="UILaunchImages">
+        <array>
+          <dict>
+            <key>UILaunchImageMinimumOSVersion</key>
+            <string>9.0</string>
+            <key>UILaunchImageName</key>
+            <string>Default-Landscape@2x~ipad-pro</string>
+            <key>UILaunchImageOrientation</key>
+            <string>Landscape</string>
+            <key>UILaunchImageSize</key>
+            <string>{2732, 2048}</string>
+          </dict>
+        </array>
+      </config-file>
+    </platform>
+</plugin>
