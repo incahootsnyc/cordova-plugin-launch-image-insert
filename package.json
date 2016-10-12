@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vgeyvandov/cordova-plugin-launch-image-insert.git"
+    "url": "git+https://github.com/incahootsnyc/cordova-plugin-launch-image-insert.git"
   },
   "keywords": [
     "cordova",
@@ -30,7 +30,7 @@
   "author": "Val Geyvandov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vgeyvandov/cordova-plugin-launch-image-insert/issues"
+    "url": "https://github.com/incahootsnyc/cordova-plugin-launch-image-insert/issues"
   },
-  "homepage": "https://github.com/vgeyvandov/cordova-plugin-launch-image-insert#readme"
+  "homepage": "https://github.com/incahootsnyc/cordova-plugin-launch-image-insert#readme"
 }
