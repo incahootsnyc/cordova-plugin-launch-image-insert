@@ -25,5 +25,12 @@
           </dict>
         </array>
       </config-file>
+
+      <config-file target="*-Info.plist" parent="CFBundleIconFiles">
+        <array>
+          <string>icon-83.5@2x.png</string>      
+        </array>
+      </config-file>
+      
     </platform>
 </plugin>
