@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-launch-image-insert",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "\n      Cordova / PhoneGap Plugin to add Ipad Pro Launch Image\n    ",
   "cordova": {
     "id": "cordova-plugin-launch-image-insert",
